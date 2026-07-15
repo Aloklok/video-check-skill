@@ -1,2 +1,5 @@
 # 本地项目记忆（审核日志/长期笔记），仅留本地，不进 GitHub
 .workbuddy/
+
+# macOS 系统文件
+.DS_Store
