@@ -1,10 +1,2 @@
-# 媒体大文件不进仓库
-*.mp4
-*.wav
-
-# 操作系统杂项
-.DS_Store
-Thumbs.db
-
-# 备份文件
-*.bak
+# 本地项目记忆（审核日志/长期笔记），仅留本地，不进 GitHub
+.workbuddy/
